@@ -13,6 +13,8 @@
 		B0B1B3F819C27C6D003A7C67 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0B1B3F719C27C6D003A7C67 /* Images.xcassets */; };
 		B0B1B3FB19C27C6D003A7C67 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0B1B3F919C27C6D003A7C67 /* LaunchScreen.xib */; };
 		B0B1B40719C27C6D003A7C67 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0B1B40619C27C6D003A7C67 /* PostcardTests.swift */; };
+		B0B1B41119C79262003A7C67 /* _MG_5876.JPG in Resources */ = {isa = PBXBuildFile; fileRef = B0B1B41019C79262003A7C67 /* _MG_5876.JPG */; };
+		B0B1B41319C7984B003A7C67 /* 1455326-two_thumbs_up.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0B1B41219C7984B003A7C67 /* 1455326-two_thumbs_up.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		B0B1B40019C27C6D003A7C67 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0B1B40519C27C6D003A7C67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B0B1B40619C27C6D003A7C67 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		B0B1B41019C79262003A7C67 /* _MG_5876.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = _MG_5876.JPG; sourceTree = "<group>"; };
+		B0B1B41219C7984B003A7C67 /* 1455326-two_thumbs_up.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1455326-two_thumbs_up.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		B0B1B3EE19C27C6D003A7C67 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B0B1B41219C7984B003A7C67 /* 1455326-two_thumbs_up.jpg */,
+				B0B1B41019C79262003A7C67 /* _MG_5876.JPG */,
 				B0B1B3EF19C27C6D003A7C67 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				B0B1B3F619C27C6D003A7C67 /* Main.storyboard in Resources */,
 				B0B1B3FB19C27C6D003A7C67 /* LaunchScreen.xib in Resources */,
 				B0B1B3F819C27C6D003A7C67 /* Images.xcassets in Resources */,
+				B0B1B41119C79262003A7C67 /* _MG_5876.JPG in Resources */,
+				B0B1B41319C7984B003A7C67 /* 1455326-two_thumbs_up.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
